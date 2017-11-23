@@ -4,8 +4,8 @@ package test.armory;
  * 
  * 	class 접근 지정자
  * 
- * 	1. public	: 전체 공개
- *  2. default	: 같은 패미지 내에서만 접근 가능 (적지않으면 default)
+ * 	1. public	: 전체 공개(import 할 수 있다)
+ *  2. default	: 같은 패미지 내에서만 접근 가능 (적지않으면 default) - import 할 수 없음
  *  
  *  생성자, 필드, 메소드 의 접근 지정자
  *  

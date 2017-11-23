@@ -12,6 +12,7 @@ import test.mypac.Phone;
  *  4. 자식 생성자에서 부모 생성자에 값을 전달하는 방법
  *  5. 메소드 오버라이딩(재정의) 하는 방법
  *  6. 오버라이딩 한 메소드에서 부모객체의 메소드를 호출하는 방법 
+ *  7. 오직 하나의 클래스만 상속 받을 수 있다.
  */
 public class MainClass01 {
 	public static void main(String[] args) {
